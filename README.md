@@ -1,6 +1,6 @@
 # aaditya
 # Change directory to your repository
-cd repository-name
+cd aaditya-name
 
 # Add files
 git add .
